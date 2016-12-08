@@ -1,0 +1,260 @@
+/***************************
+CONTAINER
+***************************/
+
+.body-container {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    height: 683px;
+    width: 1024px;
+    margin: 0 auto 0 auto;
+    -moz-border-radius-topleft: 20px 20px;
+    -moz-border-radius-topright: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-top-right-radius: 20px 20px;
+}
+
+
+body {
+    font-family: serif;
+    margin: 0;
+    pading: 0;
+}
+
+/***************************
+GRAY HEADER
+***************************/
+
+header {
+    background-color: #999;
+    margin: 0;
+    padding: 0;
+    height: 150px;
+    width: 1024px;
+    -moz-border-radius-topleft: 20px 20px;
+    -moz-border-radius-topright: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-top-right-radius: 20px 20px;    
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    padding: 0 0 0 0;
+    color: #fff;
+}
+
+h2 {
+    color: #000080;
+}
+
+.social-networking ul {
+    list-style: none;
+    margin: 0 10px;
+    padding: 0;
+}
+
+.social-networking ul li {
+    display: inline-block;
+    float: right;
+    }
+
+/***************************
+NAVIGATION
+***************************/
+
+
+nav {
+    height: 45px;
+    width: 1024px;
+    margin: 0px auto 0px auto;
+    padding: 0;
+    background-color: #444;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li.about {
+    padding: 0 45px 0 45px;
+    color: #fff;
+}
+
+nav li.contact {
+    padding: 0 45px 0 45px;
+    color: #fff;
+}
+
+nav li.resumehtml {
+    padding: 0 45px 0 45px;
+    color: #fff;
+}
+
+nav li.resumeword {
+    padding: 0 45px 0 45px;
+    color: #fff;
+}
+
+nav li.resumepdf {
+    padding: 0 45px 0 45px;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000080;
+}
+
+/***************************
+SAMPLE 1 SECTION
+***************************/
+
+.samplestext {
+    height: 70px;
+    width: 1024px;
+    padding-left: 140px;
+    padding-top: 30px;
+    margin: 0;
+}
+
+/***************************
+SAMPLE 2 SECTION
+***************************/
+
+figure {
+    margin: 0;
+    padding: 0;
+    clear: both;
+}
+
+figcaption {
+    margin: 0;
+    padding: 0;
+    clear: both;
+}
+
+.firstrowicons {
+    height: 207px;
+    width: 1024px;
+    margin: 0px auto 0px auto;
+    padding: 10px;
+}
+
+.firstrowicons ul {
+    list-style: none;
+    margin: 0 10px;
+    padding: 0;
+}
+
+.firstrowicons ul li {
+    display: inline-block;
+}
+
+
+
+.h5-img {
+    padding: 0 65px 0 45px;
+}
+
+
+.css-img {
+    padding: 0 65px 0 0;
+}
+
+.js-img {
+    padding: 0 65px 0 0;
+}
+
+.jq-img {
+    padding: 0 65px 0 0px;
+}
+
+.php-img {
+    padding: 0 auto 0 0px;
+}
+
+
+.opaquebg {
+    height: 374px;
+    width: 800px;
+    margin: 0 auto 0 auto;
+    background-color: #fff;
+    opacity: 0.5;
+}
+
+
+/***************************
+SAMPLE 3 SECTION
+***************************/
+
+.secondrowicons {
+    height: 207px;
+    width: 1024px;
+    margin: 0px auto 0px auto;
+    padding: 10px;
+}
+
+.secondrowicons ul {
+    list-style: none;
+    margin: 0 10px;
+    padding: 0;
+}
+
+.secondrowicons ul li {
+    display: inline-block;
+}
+
+
+.mysql-img {
+    padding: 0 50px 0 40px;
+}
+
+
+.boot-img {
+    padding: 0 50px 0 0;
+}
+
+.wordpress-img {
+    padding: 0 50px 0 5;
+}
+
+.capstone-img {
+    padding: 0 50px 0 60px;
+}
+
+.photoshop-img {
+    padding: 0 auto 0 0px;
+}
+
+
+/***************************
+FOOTER
+***************************/
+
+p {
+    color: #fff;
+    margin: 0 0 0 2px;
+    padding: 5px 0 0 0;
+}
+
+footer {
+    background-color: #444;
+    height: 33px;
+    width: 1024px;
+    margin: 0;
+    -moz-border-radius-bottomleft: 20px 20px;
+    -moz-border-radius-bottomright: 20px 20px;
+    border-bottom-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;  
+}
